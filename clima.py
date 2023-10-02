@@ -2,7 +2,7 @@ import requests
 import json
 from datetime import datetime
 
-clima = "<climatempo-token>
+clima = "<climatempo-token>"
 tl_key = "<telegram-api-key>"
 chat_id = "<channel-chat_id>"
 city_id = "<city_id>"
