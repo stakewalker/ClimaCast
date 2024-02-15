@@ -41,3 +41,4 @@ message = gpt_msg['choices'][0]['message']['content']
 
 #print(message)  # Debug 
 call_tele(message)  # Send message
+
